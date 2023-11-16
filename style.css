@@ -144,6 +144,10 @@ h3 {
   text-align: center;
   vertical-align: middle;
 }
+.resume .base .credentials .box {
+  text-align: center;
+  vertical-align: middle;
+}
 .resume .base .follow .box a {
   display: inline-block;
   vertical-align: text-bottom;
